@@ -10,9 +10,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
+ //🔭 I’m currently working on **a marketplace**
  
- 🌱 I’m currently learning **Docker, Supabase, AWS**
+ 🌱 I’m currently learning **Java and Wed Development**
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/salesp07/salesp07/issues)**
 
