@@ -16,7 +16,7 @@
 
 📫 How to reach me **senurabawantha@gmail.com**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **a fun fact**
 
  </div>
  
