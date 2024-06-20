@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **Java and Wed Development**
 
-💬 Ask me about **Java or anything [here](https://github.com/senurabhawantha/senurabhawantha/issues)**
+📫 How to reach me **senurabawantha@gmail.com**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
