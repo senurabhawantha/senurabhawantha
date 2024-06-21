@@ -41,6 +41,7 @@
     <img src="https://skillicons.dev/icons?i=c,python,java,javascript,linux,html,css,php" />
     <img src="https://skillicons.dev/icons?i=vscode,github,figma,androidstudio,idea,pycharm,mysql,git,github,dotnet,illustrator,photoshop" /><br>
 </div>
+<br>
  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br/>
 <h2 align="center">⚡ Stats ⚡</h2>
