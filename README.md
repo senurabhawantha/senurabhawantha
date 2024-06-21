@@ -12,8 +12,8 @@
   <em>
     Hello, I am Senura Bhawantha a <b>Third year</b> undergraduate from <a href="https://www.nibm.lk/"> <b>National Institute of Business Management</b>, Sri-Lanka</a>. <br>
     <b>a Passionate Self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Software Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
-    with <b>Web Development, Mobile Applications, Artificial Intelligence, Cloud Computing, and Cybersecurity</b><br>
-      🌱 I’m currently learning <b>Java and Wed Development</b><br>
+    with <b>Web Development, Mobile Applications, Data Science, Cloud Computing, and Cybersecurity</b><br>
+      🌱 I’m currently learning <b>Python and Java</b><br>
       📫 How to reach me <a href="mailto:senurabawantha@gmail.com"><b>senurabawantha@gmail.com</b></a><br>
       :heart: My favorite language: Java <br>
       💬 Ask me about: anything, I am happy to help <br>
