@@ -55,7 +55,7 @@
 <td width="50%" align="center">
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=chrix40&show_icons=true&theme=tokyonight" width="45%" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src=src="https://github-readme-streak-stats.herokuapp.com/?user=chrix40&theme=tokyonight" width="45%"/>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=chrix40&theme=tokyonight" width="45%"/>
 </td>
 <td width="50%" align="center">
   <img  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrix40&theme=tokyonight&layout=compact" width="45%" />
