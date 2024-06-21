@@ -27,11 +27,11 @@
  <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/senura-bhawantha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="senurabhawantha-bhawantha" height="30" width="40" /></a>
+<a href="https://fb.com/senura.bawantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="senurabhawantha" height="30" width="40" /></a>
 <a href="https://www.instagram.com/senurabhawantha/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="senurabhawantha" height="30" width="40" /></a>
 <a href="https://x.com/senurabhawantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="senurabhawantha" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/15204108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15204108" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/senura_369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="senura_369" height="30" width="40" /></a>
-<a href="https://fb.com/senura.bawantha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="senurabhawantha" height="30" width="40" /></a>
 <a href="https://discord.gg/kV9CxBhV2x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="kV9CxBhV2x" height="30" width="40" /></a>
 
 </p>
