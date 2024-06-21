@@ -11,6 +11,14 @@
     Hello, I am Senura Bhawantha a <b>Third year</b> undergraduate from <a href="https://www.nibm.lk/"> <b>National Institute of Business Management</b>, Sri-Lanka</a>. <br>
     <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Software Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with <b>Web Development, Mobile Applications, Artificial Intelligence, Cloud Computing, and Cybersecurity</b>  
+
+      🔭 I’m currently working on **a marketplace**
+ 
+ 🌱 I’m currently learning **Java and Wed Development**
+
+📫 How to reach me **senurabawantha@gmail.com**
+
+⚡ Fun fact **a fun fact**
   </em> 
   <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Coding is a passion and not profession!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
@@ -23,13 +31,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a marketplace**
  
- 🌱 I’m currently learning **Java and Wed Development**
-
-📫 How to reach me **senurabawantha@gmail.com**
-
-⚡ Fun fact **a fun fact**
 
  </div>
 
