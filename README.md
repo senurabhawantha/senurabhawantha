@@ -1,4 +1,4 @@
-[![MasterHead](https://64.media.tumblr.com/c084daab084b21f56314d2f3a8e118fe/7afb024d5566f12e-a8/s1280x1920/75352dc5a7e0cb02cf76e0655500d6036603262b.gifv)(https://rishavchanda.io)
+[![MasterHead](https://64.media.tumblr.com/c084daab084b21f56314d2f3a8e118fe/7afb024d5566f12e-a8/s1280x1920/75352dc5a7e0cb02cf76e0655500d6036603262b.gifv)](https://rishavchanda.io)
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=senurabhawantha.senurabhawantha" />
 
