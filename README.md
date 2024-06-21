@@ -38,8 +38,8 @@
 <h3 align="center">Languages and Tools:</h3>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,php,vscode,github,figma,androidstudio,idea,pycharm" />
-    <img src="https://skillicons.dev/icons?i=c,python,java,javascript,linux,mysql,git,github" /><br>
+    <img src="https://skillicons.dev/icons?i=c,python,java,javascript,linux,html,css,php" />
+    <img src="https://skillicons.dev/icons?i=vscode,github,figma,androidstudio,idea,pycharm,mysql,git,github" /><br>
 </div>
 
 <br/>
