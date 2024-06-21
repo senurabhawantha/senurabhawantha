@@ -13,11 +13,10 @@
     with <b>Web Development, Mobile Applications, Artificial Intelligence, Cloud Computing, and Cybersecurity</b><br>
       🌱 I’m currently learning <b>Java and Wed Development</b><br>
       📫 How to reach me senurabawantha@gmail.com <br>
-      😄 Pronouns: He/his
-      🔭 I’m currently working on: an NLP sentiment analysis project
-      :heart: My favorite language: Java
-      💬 Ask me about: anything, I am happy to help
+      :heart: My favorite language: Java <br>
+      💬 Ask me about: anything, I am happy to help <br>
       ⚡ Fun fact: My ultimate dream is to be on Star Trek and dawn a yellow uniform. 🖖
+      <br>
   </em> 
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Coding is a passion and not profession!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
      <p align="center">
