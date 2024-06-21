@@ -16,9 +16,9 @@
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Coding is a passion and not profession!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
      <p align="center">
   <em>
-    🔭 I’m currently working on **a marketplace** <hr>
- 🌱 I’m currently learning **Java and Wed Development** <hr>
-📫 How to reach me **senurabawantha@gmail.com** <hr>
+    🔭 I’m currently working on **a marketplace** <br>
+ 🌱 I’m currently learning **Java and Wed Development** <br>
+📫 How to reach me **senurabawantha@gmail.com** <br>
 ⚡ Fun fact **a fun fact**
   </em> 
   
