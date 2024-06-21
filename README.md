@@ -1,3 +1,5 @@
+[![MasterHead](https://64.media.tumblr.com/2fbc6436ed37aba583b88470824964f1/19e3ee9c492af6ab-b8/s1280x1920/817103201a8ccf84484280250357612127a34a46.gifv)](https://rishavchanda.io)
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=senurabhawantha.senurabhawantha" />
 
 <h1 align="center">
