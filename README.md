@@ -55,7 +55,7 @@
 <td width="50%" align="center">
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=senurabhawantha&theme=light&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" src="https://github-readme-streak-stats.herokuapp.com/?user=senurabhawantha&theme=light&hide_border=false" /> 
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=senurabhawantha&theme=light&hide_border=false" /> 
 </td>
 <td width="50%" align="center">
 
