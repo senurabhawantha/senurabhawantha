@@ -50,7 +50,7 @@
 <h3 align="center"><img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px">About Stats:</h3>
 <br>
 <div align=center>
-<table align="center">
+[<table align="center">
 <tr border="none">
 <td width="50%" align="center">
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=chrix40&show_icons=true&theme=tokyonight" width="45%" />
@@ -62,7 +62,7 @@
   
   </td>
 </tr>
-</table>
+</table>](https://github-readme-stats.vercel.app/api/top-langs/?username=chrix40&theme=tokyonight&layout=compact" width="45%" />)
 </div>
 </div>
 
