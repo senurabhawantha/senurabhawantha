@@ -15,7 +15,7 @@
   <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Coding is a passion and not profession!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
      <p align="center">
-  <em>
+  <em align="center">
     🔭 I’m currently working on **a marketplace**
  
  🌱 I’m currently learning **Java and Wed Development**
