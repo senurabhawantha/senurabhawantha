@@ -14,14 +14,17 @@
   </em> 
   <br>
   <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Coding is a passion and not profession!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
-     
-  🔭 I’m currently working on **a marketplace**
+     <p align="center">
+  <em>
+    🔭 I’m currently working on **a marketplace**
  
  🌱 I’m currently learning **Java and Wed Development**
 
 📫 How to reach me **senurabawantha@gmail.com**
 
 ⚡ Fun fact **a fun fact**
+  </em> 
+  
 </p>
 <br><br>
 
