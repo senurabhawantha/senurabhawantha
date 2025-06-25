@@ -37,7 +37,7 @@
 <h3 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px">Languages and Tools:</h3>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=c,python,java,javascript,linux,html,css,php,dotnet" />
+    <img src="https://skillicons.dev/icons?i=c,python,swift,java,javascript,linux,html,css,php,dotnet" />
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,figma,androidstudio,idea,pycharm,mysql,arduino,stackoverflow,git,github,firebase,mongodb" /><br>
 </div>
 <br>
