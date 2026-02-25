@@ -19,7 +19,7 @@
       💬 Ask me about: anything, I am happy to help <br>
       <br>
   </em> 
-  <img src="https://media.giphy.com/media/gH3LO09IOiZIqePwv9/giphy.gif" width="50" /> <b><i align="center">Thought : "Coding is a passion and not profession!”</i></b> <img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="50" />
+ <img src="https://pacman.abozanona.me?username=senurabhawantha" />
      <p align="center">
      <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 </p>
@@ -70,6 +70,6 @@
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
-<!-- For SVG -->
-<img src="https://pacman.abozanona.me?username=senurabhawantha" />
+
+
 
