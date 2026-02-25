@@ -70,9 +70,9 @@
         <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/senurabhawantha/senurabhawantha/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/senurabhawantha/senurabhawantha/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/senurabhawantha/senurabhawantha/output/pacman-contribution-graph.svg">
-</picture>
+<!-- For canvas -->
+<iframe src="https://abozanona.github.io/pacman-contribution-graph/embeded/canvas.html?username=yourusername&platform=github" 
+    width="800" height="600" frameborder="0"></iframe>
+<!-- For SVG -->
+<img src="https://pacman.abozanona.me?username=senurabhawantha" />
 
