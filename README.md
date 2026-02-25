@@ -51,11 +51,6 @@
   </em>
 </p>
 
-<!-- Pacman -->
-<p align="center">
-  <img src="https://pacman.abozanona.me?username=senurabhawantha" alt="pacman contribution graph" />
-</p>
-
 <!-- Divider -->
 <p align="center">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
@@ -94,6 +89,11 @@
       width="40"
     />
   </a>
+</p>
+
+<!-- Pacman -->
+<p align="center">
+  <img src="https://pacman.abozanona.me?username=senurabhawantha" alt="pacman contribution graph" />
 </p>
 
 <!-- Divider -->
