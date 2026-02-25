@@ -38,9 +38,9 @@
     <img src="https://skillicons.dev/icons?i=c,python,swift,java,javascript,linux,html,css,php,dotnet" />
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,git,figma,androidstudio,idea,pycharm,mysql,arduino,stackoverflow,git,github,firebase,mongodb" /><br>
 </div> -->
-<br>
+<!-- <br>
  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<br/>
+<br/> -->
 
 
 <h3 align="center"><img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px">About Stats:</h3>
