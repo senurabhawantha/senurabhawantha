@@ -37,9 +37,7 @@
     Hello, I am Senura Bhawantha a <b>Final year</b> undergraduate from
     <a href="https://www.nibm.lk/"><b>National Institute of Business Management</b>, Sri-Lanka</a>.
     <br />
-    <b>a Passionate Self-learner</b>
-    <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30" alt="developer" />
-    and a <b>Software Engineer</b>
+    a <b>Software Engineer</b>
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36" alt="designer" />
     <br />
     who is <b>obsessed</b> with <b>Web Development, IOS, Data Science, Cloud Computing, and Cybersecurity</b>
