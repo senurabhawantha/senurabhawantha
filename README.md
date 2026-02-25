@@ -131,10 +131,10 @@
   <table>
     <tr>
       <td width="50%" align="center">
-        <img
+        <!-- <img
           src="https://github-readme-stats.vercel.app/api?username=senurabhawantha&theme=light&show_icons=true&count_private=true"
           alt="github stats"
-        />
+        /> -->
         <br /><br />
         <img
           src="https://github-readme-streak-stats.herokuapp.com/?user=senurabhawantha&theme=light&hide_border=false"
