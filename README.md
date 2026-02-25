@@ -40,9 +40,7 @@
     a <b>Software Engineer</b>
     <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36" alt="designer" />
     <br />
-    who is <b>obsessed</b> with <b>Web Development, IOS, Data Science, Cloud Computing, and Cybersecurity</b>
-    <br />
-    🌱 I’m currently learning <b>Java and Swift</b>
+    who is <b>obsessed</b> with <b>Web, IOS Development, Data Science, Cloud Computing, and Cybersecurity</b>
     <br />
     📫 How to reach me:
     <a href="mailto:senurabawantha@gmail.com"><b>senurabawantha@gmail.com</b></a>
