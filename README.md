@@ -34,7 +34,7 @@
 <!-- Intro -->
 <p align="center">
   <em>
-    Hello, I am Senura Bhawantha a <b>Final year</b> undergraduate from
+    Hello, I am Senura Bhawantha a undergraduate from
     <a href="https://www.nibm.lk/"><b>National Institute of Business Management</b>, Sri-Lanka</a>.
     <br />
     a <b>Software Engineer</b>
